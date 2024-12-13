@@ -1,4 +1,4 @@
-# Sig-Kota-Semarang
+
 <h1 align="center">
   <br>
   <a href="#"><img src="https://github.com/SIG-Wisata-Kota-Semarang/Sig-Kota-Semarang/blob/main/img/logosmg.png" alt="Markdownify" width="200"></a>
