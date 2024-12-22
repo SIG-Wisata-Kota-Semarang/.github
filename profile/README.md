@@ -1,11 +1,11 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://github.com/SIG-Wisata-Kota-Semarang/Sig-Kota-Semarang/blob/main/img/logosmg.png" alt="Markdownify" width="200"></a>
+  <a href="#"><img src="https://github.com/SIG-Wisata-Kota-Semarang/Sig-Kota-Semarang/blob/main/assets/img/logosmg.png" alt="Markdownify" width="200"></a>
   <br>
-  SIG Kota Semarang
+  SEMAWIS
   <br>
-  “Panduan Wisata Anda”
+  “Satu Portal untuk Mengenal Semarang Lebih Dekat.”
 </h1>
 
 
@@ -32,7 +32,7 @@ Website for Semarang provides interactive information about tourist destinations
 
 |       Source       |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Source Code | [Github]([https://github.com/Bangkit-PetMate/Pet-Mate](https://github.com/SIG-Wisata-Kota-Semarang/Sig-Kota-Semarang)) |
+| Source Code | [Github](https://github.com/SIG-Wisata-Kota-Semarang/Sig-Kota-Semarang) |
 
 
 
